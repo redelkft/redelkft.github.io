@@ -65,9 +65,8 @@
       "cimke": "3. nap",
       "datum": "2021-09-30",
       "aktiv": false,
-      "eredmenyek": []
-    }
-     {
+      "eredmenyek": [     
+        {
           "nev": "Lepke",
           "elsokorIdo": "1:03",
           "elodontoIdo": "1:05",
@@ -79,5 +78,9 @@
           "elodontoIdo": "1:05",
           "dontoIdo": "0:09"
         }
+      ]
+      
+    }
+
   ]
 }
