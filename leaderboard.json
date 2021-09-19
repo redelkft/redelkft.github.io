@@ -1,29 +1,29 @@
 {
   "tabok" : {
-    "eredmenyek": false,
-    "regisztracio": true,
+    "eredmenyek": true,
+    "regisztracio": false,
     "link": "http://www.regexpo.hu/electrosub/reg.php?tip=9&meghivo=rQjgdvxT215sAJVv8g"
   },
   "napok": [
     {
       "cimke": "1. nap",
-      "datum": "2021-09-16",
-      "aktiv": false,
+      "datum": "2021-09-28",
+      "aktiv": true,
       "eredmenyek": [
         {
-          "nev": "Maci",
+          "nev": "Szilvi",
           "elsokorIdo": "1:13",
           "elodontoIdo": "2:25",
           "dontoIdo": "3:39"
         },
         {
-          "nev": "Nyuszi",
+          "nev": "Zsuzsi",
           "elsokorIdo": "0:39",
           "elodontoIdo": "1:05",
-          "dontoIdo": "1:44"
+          "dontoIdo": "0:00"
         },
         {
-          "nev": "Cucu",
+          "nev": "Gergő",
           "elsokorIdo": "0:03",
           "elodontoIdo": "0:07",
           "dontoIdo": "0:11"
@@ -33,7 +33,7 @@
     {
       "cimke": "2. nap",
       "datum": "2021-09-15",
-      "aktiv": true,
+      "aktiv": false,
       "eredmenyek": [
         {
           "nev": "Józsi",
