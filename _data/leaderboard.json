@@ -1,0 +1,66 @@
+{
+  "napok": [
+    {
+      "cimke": "1. nap",
+      "datum": "2021-09-16",
+      "aktiv": false,
+      "eredmenyek": [
+        {
+          "nev": "Maci",
+          "elsokorIdo": "1:13",
+          "elodontoIdo": "2:25",
+          "dontoIdo": "3:39"
+        },
+        {
+          "nev": "Nyuszi",
+          "elsokorIdo": "0:39",
+          "elodontoIdo": "1:05",
+          "dontoIdo": "1:44"
+        },
+        {
+          "nev": "Cucu",
+          "elsokorIdo": "0:02",
+          "elodontoIdo": "0:05",
+          "dontoIdo": "0:09"
+        }
+      ]
+    },
+    {
+      "cimke": "2. nap",
+      "datum": "2021-09-15",
+      "aktiv": true,
+      "eredmenyek": [
+        {
+          "nev": "Józsi",
+          "elsokorIdo": "1:01",
+          "elodontoIdo": "2:25",
+          "dontoIdo": "1:44"
+        },
+        {
+          "nev": "Susanne",
+          "elsokorIdo": "0:39",
+          "elodontoIdo": "1:05",
+          "dontoIdo": "1:44"
+        },
+        {
+          "nev": "Tavirósza",
+          "elsokorIdo": "1:02",
+          "elodontoIdo": "1:05",
+          "dontoIdo": "0:09"
+        },
+        {
+          "nev": "T Anne",
+          "elsokorIdo": "1:03",
+          "elodontoIdo": "1:05",
+          "dontoIdo": "0:09"
+        }
+      ]
+    },
+    {
+      "cimke": "3. nap",
+      "datum": "2021-09-19",
+      "aktiv": false,
+      "eredmenyek": []
+    }
+  ]
+}
