@@ -20,7 +20,7 @@
           "nev": "Zsuzsi",
           "elsokorIdo": "0:39",
           "elodontoIdo": "1:05",
-          "dontoIdo": "dnf"
+          "dontoIdo": "NA"
         },
         {
           "nev": "Gergő",
@@ -32,7 +32,7 @@
     },
     {
       "cimke": "2. nap",
-      "datum": "2021-09-15",
+      "datum": "2021-09-29",
       "aktiv": false,
       "eredmenyek": [
         {
@@ -63,9 +63,21 @@
     },
     {
       "cimke": "3. nap",
-      "datum": "2021-09-19",
+      "datum": "2021-09-30",
       "aktiv": false,
       "eredmenyek": []
     }
+     {
+          "nev": "Lepke",
+          "elsokorIdo": "1:03",
+          "elodontoIdo": "1:05",
+          "dontoIdo": "0:09"
+        }
+      {
+          "nev": "Pillangó",
+          "elsokorIdo": "1:03",
+          "elodontoIdo": "1:05",
+          "dontoIdo": "0:09"
+        }
   ]
 }
