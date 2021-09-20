@@ -1,7 +1,7 @@
 {
   "tabok" : {
-    "eredmenyek": false,
-    "regisztracio": true,
+    "eredmenyek": true,
+    "regisztracio": false,
     "link": "http://www.regexpo.hu/electrosub/reg.php?tip=9&meghivo=rQjgdvxT215sAJVv8g"
   },
   "napok": [
