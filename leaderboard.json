@@ -11,34 +11,34 @@
       "aktiv": true,
       "eredmenyek": [
         {
-          "nev": "Szilvi",
-          "elsokorIdo": "1:05",
-          "elodontoIdo": "1:33",
-          "dontoIdo": "2:32"
+          "nev": "Antal Zoltán",
+          "elsokorIdo": "00:45",
+          "elodontoIdo": "00:43",
+          "dontoIdo": "00:34"
         },
         {
-          "nev": "Zsuzsi",
-          "elsokorIdo": "1:56",
-          "elodontoIdo": "00:51",
-          "dontoIdo": "2:19"
+          "nev": "De Haan Tom",
+          "elsokorIdo": "03:34",
+          "elodontoIdo": "00:53",
+          "dontoIdo": "01:07"
         },
         {
           "nev": "Melangoth",
-          "elsokorIdo": "1:36",
-          "elodontoIdo": "1:13",
-          "dontoIdo": "1:19"
+          "elsokorIdo": "01:36",
+          "elodontoIdo": "01:13",
+          "dontoIdo": "01:19"
         },
           {
           "nev": "G.Gergő",
-          "elsokorIdo": "0:51",
-          "elodontoIdo": "0:49",
-          "dontoIdo": "1:17"
+          "elsokorIdo": "00:51",
+          "elodontoIdo": "00:49",
+          "dontoIdo": "01:17"
         },
         {
           "nev": "D.Judit",
-          "elsokorIdo": "1:13",
-          "elodontoIdo": "2:25",
-          "dontoIdo": "3:39"
+          "elsokorIdo": "01:13",
+          "elodontoIdo": "02:25",
+          "dontoIdo": "03:39"
         }
       ]
     },
