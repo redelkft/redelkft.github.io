@@ -46,6 +46,30 @@
           "elodontoIdo": "02:25",
           "dontoIdo": "03:39"
         }
+         {
+          "nev": "Szelezsán Bettina",
+          "elsokorIdo": "01:43",
+          "elodontoIdo": "02:00",
+          "dontoIdo": "00:56"
+        },
+     {
+          "nev": "Budai Dávid",
+          "elsokorIdo": "03:27",
+          "elodontoIdo": "03:38",
+          "dontoIdo": "01:46"
+        },
+      {
+          "nev": "Vígh Mihály Sándor",
+          "elsokorIdo": "01:23",
+          "elodontoIdo": "03:38",
+          "dontoIdo": "00:58"
+        },
+      {
+          "nev": "Ilankó Roland",
+          "elsokorIdo": "01:09",
+          "elodontoIdo": "03:38",
+          "dontoIdo": "00:58"
+        },
       ]
     },
     {
