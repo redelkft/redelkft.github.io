@@ -41,16 +41,22 @@
           "dontoIdo": "00:58"
         },
         {
-          "nev": "D.Judit",
-          "elsokorIdo": "01:13",
-          "elodontoIdo": "02:25",
-          "dontoIdo": "03:39"
+          "nev": "Gerzsenyi Luca",
+          "elsokorIdo": "01:45",
+          "elodontoIdo": "00:43",
+          "dontoIdo": "03:37"
         },
          {
           "nev": "Szelezsán Bettina",
           "elsokorIdo": "01:43",
           "elodontoIdo": "02:00",
           "dontoIdo": "00:56"
+        },
+         {
+          "nev": "Báldi Gergő",
+          "elsokorIdo": "03:19",
+          "elodontoIdo": "00:28",
+          "dontoIdo": "03:07"
         },
      {
           "nev": "Budai Dávid",
@@ -75,6 +81,12 @@
           "elsokorIdo": "01:15",
           "elodontoIdo": "02:02",
           "dontoIdo": "01:14"
+        },
+            {
+          "nev": "Mátrai István",
+          "elsokorIdo": "01:27",
+          "elodontoIdo": "04:40",
+          "dontoIdo": "01:21"
         },
         {
           "nev": "Jánosi Benjámin",
