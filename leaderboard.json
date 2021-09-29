@@ -131,11 +131,23 @@
           "elodontoIdo": "00:25",
           "dontoIdo": "00:41"
         },
+                   {
+          "nev": "Gehér Attila",
+          "elsokorIdo": "03:18",
+          "elodontoIdo": "03:02",
+          "dontoIdo": "00:41"
+        },
             {
           "nev": "Polyák Balázs",
           "elsokorIdo": "00:58",
           "elodontoIdo": "1:28",
           "dontoIdo": "00:38"
+        },
+                    {
+          "nev": "Szalai Imre",
+          "elsokorIdo": "02:39",
+          "elodontoIdo": "02:45",
+          "dontoIdo": "01:11"
         },
              {
           "nev": "Lazányi János - PCB Design Kft",
