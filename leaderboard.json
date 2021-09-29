@@ -8,7 +8,7 @@
     {
       "cimke": "1. nap",
       "datum": "2021-09-28",
-      "aktiv": true,
+      "aktiv": false,
       "eredmenyek": [
         {
           "nev": "Antal Zoltán",
@@ -99,7 +99,7 @@
     {
       "cimke": "2. nap",
       "datum": "2021-09-29",
-      "aktiv": false,
+      "aktiv": true,
       "eredmenyek": [
         {
           "nev": "Józsi",
