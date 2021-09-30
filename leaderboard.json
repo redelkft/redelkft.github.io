@@ -105,7 +105,7 @@
     {
       "cimke": "2. nap",
       "datum": "2021-09-29",
-      "aktiv": true,
+      "aktiv": false,
       "eredmenyek": [
         {
           "nev": "Szarvas Tamás - GÉMOSZ",
@@ -178,7 +178,7 @@
     {
       "cimke": "3. nap",
       "datum": "2021-09-30",
-      "aktiv": false,
+      "aktiv": true,
       "eredmenyek": [     
         {
           "nev": "Lepke",
