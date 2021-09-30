@@ -181,16 +181,22 @@
       "aktiv": true,
       "eredmenyek": [     
         {
-          "nev": "Lepke",
-          "elsokorIdo": "1:03",
-          "elodontoIdo": "1:05",
-          "dontoIdo": "0:09"
+          "nev": "Balázs István",
+          "elsokorIdo": "01:45",
+          "elodontoIdo": "02:40",
+          "dontoIdo": "00:48"
+        },
+                {
+          "nev": "Patrik Polena",
+          "elsokorIdo": "01:45",
+          "elodontoIdo": "02:40",
+          "dontoIdo": "00:48"
         },
       {
-          "nev": "Pillangó",
-          "elsokorIdo": "1:03",
-          "elodontoIdo": "1:05",
-          "dontoIdo": "0:09"
+          "nev": "Pareek Udayan",
+          "elsokorIdo": "01:23",
+          "elodontoIdo": "NA",
+          "dontoIdo": "NA"
         }
       ]
       
