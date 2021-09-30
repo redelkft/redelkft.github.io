@@ -186,11 +186,77 @@
           "elodontoIdo": "02:40",
           "dontoIdo": "00:48"
         },
-                {
+           {
           "nev": "Patrik Polena",
-          "elsokorIdo": "01:45",
-          "elodontoIdo": "02:40",
-          "dontoIdo": "00:48"
+          "elsokorIdo": "01:00",
+          "elodontoIdo": "00:33",
+          "dontoIdo": "00:33"
+        },
+           {
+          "nev": "Serény András",
+          "elsokorIdo": "00:46",
+          "elodontoIdo": "01:43",
+          "dontoIdo": "01:52"
+        },
+          {
+          "nev": "Melik Gábor Zoltán",
+          "elsokorIdo": "01:03",
+          "elodontoIdo": "01:59",
+          "dontoIdo": "00:58"
+        },
+                  {
+          "nev": "Ács Sándor",
+          "elsokorIdo": "02:18",
+          "elodontoIdo": "NA",
+          "dontoIdo": "NA"
+        },
+                  {
+          "nev": "Böde Gergely Zsolt",
+          "elsokorIdo": "01:59",
+          "elodontoIdo": "02:27",
+          "dontoIdo": "NA"
+        },
+                  {
+          "nev": "Horvát Katalin",
+          "elsokorIdo": "03:08",
+          "elodontoIdo": "NA",
+          "dontoIdo": "NA"
+        },
+                  {
+          "nev": "Hegyi Krisztina",
+          "elsokorIdo": "01:27",
+          "elodontoIdo": "01:37",
+          "dontoIdo": "01:13"
+        },
+                  {
+          "nev": "Csordás Marcell",
+          "elsokorIdo": "02:34",
+          "elodontoIdo": "NA",
+          "dontoIdo": "NA"
+        },
+                  {
+          "nev": "Czakó Miklós",
+          "elsokorIdo": "NA",
+          "elodontoIdo": "NA",
+          "dontoIdo": "NA"
+        },
+                  {
+          "nev": "Zsolnai Dénes",
+          "elsokorIdo": "03:18",
+          "elodontoIdo": "02:03",
+          "dontoIdo": "01:39"
+        },
+                  {
+          "nev": "Gráfel Balázs",
+          "elsokorIdo": "01:29",
+          "elodontoIdo": "01:21",
+          "dontoIdo": "01:07"
+        },
+                  {
+          "nev": "Lassú Gábor",
+          "elsokorIdo": "00:50",
+          "elodontoIdo": "00:32",
+          "dontoIdo": "01:17"
         },
       {
           "nev": "Pareek Udayan",
